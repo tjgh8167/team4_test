@@ -1,3 +1,4 @@
+# 데이터 증강 기능 구현
 def apply_augmentation(image):
     """
     이미지 데이터 증강 함수
