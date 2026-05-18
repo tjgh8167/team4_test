@@ -5,3 +5,4 @@ def preprocessing():
     print("커밋 이후 PR을 수행해보겠습니다.")
     print("PR 전 파일 내용을 수정했습니다.")
     print("PR템플릿 제작 후 브랜치 생성 및 작업을 수행했습니다.")
+    print("브랜치 새로 생성 및 PR 작업 수행")
