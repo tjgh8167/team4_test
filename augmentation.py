@@ -7,3 +7,5 @@ def apply_augmentation(image):
     - 크롭
     """
     return image
+
+print("augmentation.py 실행 성공")
